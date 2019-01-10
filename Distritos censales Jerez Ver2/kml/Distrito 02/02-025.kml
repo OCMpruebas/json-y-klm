@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>02-025.kml</name>
+	<Schema name="da08_seccion_censal" id="S_da08_seccion_censal_SSSSIS1">
+		<SimpleField type="string" name="RT_CODIGO"><displayName>&lt;b&gt;RT_CODIGO&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_MUN"><displayName>&lt;b&gt;COD_MUN&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_DIST"><displayName>&lt;b&gt;COD_DIST&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_SECC"><displayName>&lt;b&gt;COD_SECC&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="POBLACION"><displayName>&lt;b&gt;POBLACION&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_ENT"><displayName>&lt;b&gt;COD_ENT&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<StyleMap id="falseColor">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor4">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>RT_CODIGO</b></td><td>$[da08_seccion_censal/RT_CODIGO]</td></tr>
+  <tr><td><b>COD_MUN</b></td><td>$[da08_seccion_censal/COD_MUN]</td></tr>
+  <tr><td><b>COD_DIST</b></td><td>$[da08_seccion_censal/COD_DIST]</td></tr>
+  <tr><td><b>COD_SECC</b></td><td>$[da08_seccion_censal/COD_SECC]</td></tr>
+  <tr><td><b>POBLACION</b></td><td>$[da08_seccion_censal/POBLACION]</td></tr>
+  <tr><td><b>COD_ENT</b></td><td>$[da08_seccion_censal/COD_ENT]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1b97f8</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d1b97f8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor3">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>RT_CODIGO</b></td><td>$[da08_seccion_censal/RT_CODIGO]</td></tr>
+  <tr><td><b>COD_MUN</b></td><td>$[da08_seccion_censal/COD_MUN]</td></tr>
+  <tr><td><b>COD_DIST</b></td><td>$[da08_seccion_censal/COD_DIST]</td></tr>
+  <tr><td><b>COD_SECC</b></td><td>$[da08_seccion_censal/COD_SECC]</td></tr>
+  <tr><td><b>POBLACION</b></td><td>$[da08_seccion_censal/POBLACION]</td></tr>
+  <tr><td><b>COD_ENT</b></td><td>$[da08_seccion_censal/COD_ENT]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1b97f8</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d1b97f8</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>02-025</name>
+		<description><![CDATA[descripción: <br>RT_CODIGO: 1102002025<br>COD_MUN: 11020<br>COD_DIST: 02<br>COD_SECC: 025<br>POBLACION: 2386<br>COD_ENT: d12]]></description>
+		<styleUrl>#falseColor</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_da08_seccion_censal_SSSSIS1">
+				<SimpleData name="RT_CODIGO">1102002025</SimpleData>
+				<SimpleData name="COD_MUN">11020</SimpleData>
+				<SimpleData name="COD_DIST">02</SimpleData>
+				<SimpleData name="COD_SECC">025</SimpleData>
+				<SimpleData name="POBLACION">2386</SimpleData>
+				<SimpleData name="COD_ENT">d12</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-6.13315939565021,36.6941344782532,0 -6.13330437911994,36.69427991036547,0 -6.13365389671001,36.69464292513823,0 -6.134007783153499,36.69503946718751,0 -6.134248857071068,36.69530960974883,0 -6.134694535836919,36.6948140281015,0 -6.134870331655103,36.69460019731435,0 -6.13516526248662,36.69432478261555,0 -6.135257426165168,36.69423718671989,0 -6.135693037533885,36.6938233813492,0 -6.135972527934648,36.69362266842575,0 -6.136055202405797,36.69356221095728,0 -6.136244328083795,36.69342394992506,0 -6.136439257162554,36.69324072385087,0 -6.13684351767416,36.69280756908425,0 -6.137152604228571,36.69248833342135,0 -6.137212014481408,36.69243162458181,0 -6.137361443460199,36.69228831648618,0 -6.137533871553822,36.69212892156003,0 -6.137567024302588,36.69204367164979,0 -6.135508511049233,36.69058279501049,0 -6.134410885611892,36.68980072008586,0 -6.134064697562645,36.68957698898354,0 -6.134035023537107,36.68953798177152,0 -6.133356494747433,36.68864701215428,0 -6.132446676537702,36.68881565693714,0 -6.131615741996209,36.68896818976394,0 -6.131628699187168,36.68912888731057,0 -6.131598434087941,36.68924713012915,0 -6.131548353328162,36.68935183200907,0 -6.131436712774441,36.6894558998933,0 -6.131330236639552,36.68951820080933,0 -6.131225954618634,36.68955624477787,0 -6.130955323531633,36.6896335444164,0 -6.130684555584509,36.68971079388518,0 -6.130636970314525,36.68976866612434,0 -6.130211149486266,36.68991474568986,0 -6.130224228918784,36.69001465094705,0 -6.130356372184393,36.69103525283877,0 -6.130554252823708,36.69103195190213,0 -6.130700832799385,36.69105889738729,0 -6.131005164093271,36.69112932814591,0 -6.131299633037239,36.69120627137974,0 -6.131561586166408,36.69130813743569,0 -6.131634183229529,36.69134775075536,0 -6.132686537293859,36.69201205139209,0 -6.132962711556438,36.69218411037652,0 -6.131923417907837,36.69282317518626,0 -6.13315939565021,36.6941344782532,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

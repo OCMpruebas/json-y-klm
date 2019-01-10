@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>07-006.kml</name>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>ffffc39f</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cffc39f</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<LineStyle>
+			<color>ffffc39f</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cffc39f</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>07-006</name>
+		<description><![CDATA[descripción: <br>RT_CODIGO: 1102007006<br>COD_MUN: 11020<br>COD_DIST: 07<br>COD_SECC: 006<br>POBLACION: 1421<br>COD_ENT: d12]]></description>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<ExtendedData>
+			<Data name="descripción">
+			</Data>
+			<Data name="RT_CODIGO">
+				<value>1102007006</value>
+			</Data>
+			<Data name="COD_MUN">
+				<value>11020</value>
+			</Data>
+			<Data name="COD_DIST">
+				<value>07</value>
+			</Data>
+			<Data name="COD_SECC">
+				<value>006</value>
+			</Data>
+			<Data name="POBLACION">
+				<value>1421</value>
+			</Data>
+			<Data name="COD_ENT">
+				<value>d12</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-6.130025,36.67506399999999,0 -6.130376000000001,36.67522600000001,0 -6.130572,36.675303,0 -6.130785,36.675382,0 -6.13106,36.675458,0 -6.131223000000001,36.675515,0 -6.131600000000001,36.67561200000001,0 -6.131685,36.675631,0 -6.131854999999998,36.675665,0 -6.132115,36.675686,0 -6.13262,36.675535,0 -6.133353000000001,36.675317,0 -6.133318000000001,36.67523,0 -6.133218,36.67508699999999,0 -6.13311,36.674935,0 -6.133023000000001,36.674809,0 -6.132954000000001,36.674724,0 -6.132903999999999,36.674603,0 -6.132840999999999,36.674497,0 -6.132803,36.674244,0 -6.132765,36.67399,0 -6.132734,36.67374600000001,0 -6.132264,36.673768,0 -6.131861999999999,36.673764,0 -6.13184,36.673273,0 -6.131227,36.673258,0 -6.130639,36.67306300000001,0 -6.128604,36.672967,0 -6.128269999999998,36.673477,0 -6.128019999999999,36.673859,0 -6.128500000000001,36.674135,0 -6.129509,36.674813,0 -6.130025,36.67506399999999,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>05-007.kml</name>
+	<Style id="sh_ylw-pushpin5">
+		<LineStyle>
+			<color>ffd7b5a7</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cd7b5a7</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin8">
+		<LineStyle>
+			<color>ffd7b5a7</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cd7b5a7</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>05-007</name>
+		<description><![CDATA[descripción: <br>RT_CODIGO: 1102005007<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 007<br>POBLACION: 768<br>COD_ENT: d12]]></description>
+		<styleUrl>#msn_ylw-pushpin5</styleUrl>
+		<ExtendedData>
+			<Data name="descripción">
+			</Data>
+			<Data name="RT_CODIGO">
+				<value>1102005007</value>
+			</Data>
+			<Data name="COD_MUN">
+				<value>11020</value>
+			</Data>
+			<Data name="COD_DIST">
+				<value>05</value>
+			</Data>
+			<Data name="COD_SECC">
+				<value>007</value>
+			</Data>
+			<Data name="POBLACION">
+				<value>768</value>
+			</Data>
+			<Data name="COD_ENT">
+				<value>d12</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-6.142408,36.69808199999999,0 -6.142782,36.698588,0 -6.142978000000001,36.698871,0 -6.143384,36.698689,0 -6.144261,36.69827,0 -6.145005000000001,36.697932,0 -6.144745,36.697499,0 -6.144506000000001,36.69708500000001,0 -6.144329000000001,36.696798,0 -6.144301999999999,36.696722,0 -6.143919,36.696767,0 -6.142087,36.697614,0 -6.142408,36.69808199999999,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

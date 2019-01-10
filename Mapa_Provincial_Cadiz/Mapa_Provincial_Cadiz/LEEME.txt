@@ -1,0 +1,19 @@
+Georreferenciado de la imagen Raster del Mapa Provincial de Cádiz. Año 2007. Cartografía escala 1:200.000. Servicios de Medio Ambiente. Diputación de Cádiz
+
+Fecha de creación del paquete: 07/07/2014
+
+Contenido:
+
+- Carpeta Inf_Geografica:
+	
+	- TIFF: Mapa_Provincial_Cadiz.tif
+	- PDF: Mapa_Provincial_Cadiz.pdf
+
+- Carpeta Inf_Auxiliar:
+
+	- Leyenda.tif
+
+- Carpeta Metadatos
+
+	- ESDIPUCADIZmapa_provincial.xml
+	- ESDIPUCADIZmapa_provincial.html

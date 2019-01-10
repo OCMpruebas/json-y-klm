@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DistritosJerezDesdeOrigen.kml</name>
+	<Schema name="da08_seccion_censal" id="S_da08_seccion_censal_SSSSIS">
+		<SimpleField type="string" name="RT_CODIGO"><displayName>&lt;b&gt;RT_CODIGO&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_MUN"><displayName>&lt;b&gt;COD_MUN&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_DIST"><displayName>&lt;b&gt;COD_DIST&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_SECC"><displayName>&lt;b&gt;COD_SECC&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="POBLACION"><displayName>&lt;b&gt;POBLACION&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="COD_ENT"><displayName>&lt;b&gt;COD_ENT&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="falseColor">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>RT_CODIGO</b></td><td>$[da08_seccion_censal/RT_CODIGO]</td></tr>
+  <tr><td><b>COD_MUN</b></td><td>$[da08_seccion_censal/COD_MUN]</td></tr>
+  <tr><td><b>COD_DIST</b></td><td>$[da08_seccion_censal/COD_DIST]</td></tr>
+  <tr><td><b>COD_SECC</b></td><td>$[da08_seccion_censal/COD_SECC]</td></tr>
+  <tr><td><b>POBLACION</b></td><td>$[da08_seccion_censal/POBLACION]</td></tr>
+  <tr><td><b>COD_ENT</b></td><td>$[da08_seccion_censal/COD_ENT]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<styleUrl>#falseColor</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_da08_seccion_censal_SSSSIS">
+				<SimpleData name="RT_CODIGO">1102005006</SimpleData>
+				<SimpleData name="COD_MUN">11020</SimpleData>
+				<SimpleData name="COD_DIST">05</SimpleData>
+				<SimpleData name="COD_SECC">006</SimpleData>
+				<SimpleData name="POBLACION">1509</SimpleData>
+				<SimpleData name="COD_ENT">d12</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-6.13786132160012,36.69764299491699,0 -6.138014812009722,36.69778367293775,0 -6.138184384165239,36.69790897720099,0 -6.138487671058959,36.69812310666551,0 -6.138868066607179,36.69835171488287,0 -6.139560536559778,36.69880228221719,0 -6.140101525398645,36.69851252154182,0 -6.141489477248737,36.69790201508747,0 -6.142086994055309,36.69761359735289,0 -6.143919222494299,36.69676720831795,0 -6.143831953057742,36.69663315270634,0 -6.143772965238972,36.69656458114451,0 -6.14298069018429,36.69599584737915,0 -6.142847984492475,36.69589620967886,0 -6.14268864482961,36.69575901308429,0 -6.142113420818706,36.69518373795696,0 -6.14201688378582,36.69493856609063,0 -6.141746695931289,36.69502128535982,0 -6.141593697251264,36.69509150499453,0 -6.141129892445402,36.69530155894653,0 -6.140470941959646,36.69560788825024,0 -6.139652074372428,36.69443285833192,0 -6.139603589881466,36.69436367842064,0 -6.139178936798089,36.69430930172246,0 -6.138509806796241,36.69417465444857,0 -6.137726590383037,36.69407469830384,0 -6.137431763348071,36.69401127033481,0 -6.137077037660927,36.69388379245803,0 -6.136488621233205,36.69358709558928,0 -6.136244328083795,36.69342394992506,0 -6.136055202405797,36.69356221095728,0 -6.135972527934648,36.69362266842575,0 -6.135693037533885,36.6938233813492,0 -6.135257426165168,36.69423718671989,0 -6.135995886334122,36.69515904165308,0 -6.136039292819449,36.69540338400638,0 -6.136823377536302,36.69641717430438,0 -6.137000416374272,36.6966219731501,0 -6.137401786702645,36.69726425255048,0 -6.13786132160012,36.69764299491699,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

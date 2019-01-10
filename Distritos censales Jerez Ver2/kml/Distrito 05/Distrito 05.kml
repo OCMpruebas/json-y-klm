@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Distrito 05.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd7b5a7</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cd7b5a7</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd7b5a7</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cd7b5a7</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Distrito 05</name>
+		<Placemark>
+			<name>05-001</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005001<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 001<br>POBLACION: 1589<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005001</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>001</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>1589</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.141330999999999,36.702172,0 -6.141113000000001,36.70232299999999,0 -6.140786999999999,36.702583,0 -6.140527,36.70283499999999,0 -6.140233,36.703159,0 -6.140021999999999,36.703454,0 -6.139803,36.703803,0 -6.139583999999999,36.704153,0 -6.139220999999999,36.704739,0 -6.138845,36.70533300000001,0 -6.138624000000001,36.705673,0 -6.138581,36.705737,0 -6.138519000000001,36.705877,0 -6.148739000000001,36.705544,0 -6.148287,36.704557,0 -6.147973,36.703871,0 -6.147377,36.702531,0 -6.146950000000001,36.701542,0 -6.146898000000001,36.701434,0 -6.146867,36.701365,0 -6.146735,36.701085,0 -6.146699,36.701009,0 -6.146124,36.69979100000001,0 -6.145797000000001,36.699202,0 -6.145722999999999,36.699085,0 -6.145330000000002,36.69845000000001,0 -6.145233000000001,36.69828,0 -6.145005000000001,36.697932,0 -6.144261,36.69827,0 -6.143384,36.698689,0 -6.142978000000001,36.698871,0 -6.142660000000001,36.699023,0 -6.143241,36.699888,0 -6.143584999999999,36.699709,0 -6.144046,36.700371,0 -6.142702,36.701265,0 -6.141976,36.701748,0 -6.141871,36.70181700000001,0 -6.141330999999999,36.702172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-002</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005002<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 002<br>POBLACION: 778<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005002</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>002</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>778</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.134064,36.702826,0 -6.133859,36.703305,0 -6.133626999999999,36.70385999999999,0 -6.133426,36.70484200000001,0 -6.133283,36.705544,0 -6.133275,36.705664,0 -6.133318999999999,36.706028,0 -6.133341999999999,36.706232,0 -6.133418,36.706862,0 -6.135569,36.706657,0 -6.136282,36.706591,0 -6.136995999999999,36.706526,0 -6.137096,36.706518,0 -6.137227,36.706498,0 -6.137368000000001,36.70647200000001,0 -6.137528999999999,36.70643,0 -6.137569999999999,36.70641599999999,0 -6.137676999999999,36.70638,0 -6.137814000000001,36.70632299999999,0 -6.1379,36.706285,0 -6.137945,36.70626299999999,0 -6.138023,36.706224,0 -6.138134000000001,36.706145,0 -6.138245,36.706063,0 -6.138360000000001,36.705965,0 -6.138519000000001,36.705877,0 -6.138581,36.705737,0 -6.138624000000001,36.705673,0 -6.138845,36.70533300000001,0 -6.139220999999999,36.704739,0 -6.139583999999999,36.704153,0 -6.139803,36.703803,0 -6.140021999999999,36.703454,0 -6.140233,36.703159,0 -6.140527,36.70283499999999,0 -6.140786999999999,36.702583,0 -6.141113000000001,36.70232299999999,0 -6.141330999999999,36.702172,0 -6.141871,36.70181700000001,0 -6.14059,36.701938,0 -6.140269,36.701937,0 -6.138913,36.701952,0 -6.137790999999999,36.70195300000001,0 -6.137576999999999,36.701947,0 -6.137361000000001,36.701933,0 -6.137196,36.701916,0 -6.137013000000001,36.701886,0 -6.136853,36.701865,0 -6.136558000000002,36.701796,0 -6.136361999999999,36.701745,0 -6.135757000000001,36.701588,0 -6.134945999999999,36.701361,0 -6.134720000000001,36.701311,0 -6.134663000000001,36.70142100000001,0 -6.134295999999999,36.70223,0 -6.134064,36.702826,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-003</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005003<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 003<br>POBLACION: 1117<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005003</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>003</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>1117</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.131964999999999,36.702544,0 -6.13296,36.701903,0 -6.134295999999999,36.70223,0 -6.134663000000001,36.70142100000001,0 -6.134720000000001,36.701311,0 -6.133619,36.701046,0 -6.133242999999999,36.700921,0 -6.13235,36.700695,0 -6.131137,36.700367,0 -6.130926,36.70086,0 -6.130867,36.70098,0 -6.130583000000001,36.70156300000001,0 -6.13032,36.70209400000001,0 -6.130313000000001,36.702113,0 -6.131964999999999,36.702544,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-004</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005004<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 004<br>POBLACION: 1160<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005004</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>004</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>1160</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.134945999999999,36.701361,0 -6.135061000000001,36.701081,0 -6.135335,36.700283,0 -6.135695000000001,36.699502,0 -6.135077,36.69932,0 -6.135242999999999,36.698833,0 -6.135421,36.698459,0 -6.135405000000001,36.698349,0 -6.135339,36.69825100000001,0 -6.135133,36.69808100000001,0 -6.134278000000001,36.69740600000001,0 -6.133182000000001,36.696624,0 -6.132316000000001,36.697586,0 -6.132078000000001,36.697908,0 -6.131873999999999,36.698325,0 -6.131718,36.698713,0 -6.131463999999999,36.699425,0 -6.131137,36.700367,0 -6.13235,36.700695,0 -6.133242999999999,36.700921,0 -6.133619,36.701046,0 -6.134720000000001,36.701311,0 -6.134945999999999,36.701361,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-005</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005005<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 005<br>POBLACION: 1051<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005005</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>005</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>1051</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.134278000000001,36.69740600000001,0 -6.135133,36.69808100000001,0 -6.135339,36.69825100000001,0 -6.135405000000001,36.698349,0 -6.135421,36.698459,0 -6.135242999999999,36.698833,0 -6.135077,36.69932,0 -6.135695000000001,36.699502,0 -6.135847,36.699163,0 -6.135923999999999,36.69893,0 -6.135955999999999,36.69884999999999,0 -6.135987,36.698786,0 -6.136263,36.69814300000001,0 -6.136326,36.697941,0 -6.137402,36.697264,0 -6.137,36.69662200000001,0 -6.136823,36.696417,0 -6.136039,36.695403,0 -6.135995999999999,36.695159,0 -6.135257000000001,36.69423700000001,0 -6.135165,36.694325,0 -6.13487,36.6946,0 -6.134694999999999,36.69481399999999,0 -6.134249000000001,36.69531,0 -6.133515999999998,36.696124,0 -6.133227000000001,36.69653099999999,0 -6.133182000000001,36.696624,0 -6.134278000000001,36.69740600000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-006</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005006<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 006<br>POBLACION: 1509<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005006</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>006</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>1509</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.137861000000001,36.697643,0 -6.138015,36.69778399999999,0 -6.138183999999999,36.697909,0 -6.138488,36.698123,0 -6.138868,36.698352,0 -6.139561,36.698802,0 -6.140102000000001,36.698513,0 -6.141489000000001,36.697902,0 -6.142087,36.697614,0 -6.143919,36.696767,0 -6.143832,36.69663300000001,0 -6.143773,36.696565,0 -6.142981000000001,36.69599599999999,0 -6.142848,36.695896,0 -6.142689,36.69575900000001,0 -6.142113,36.695184,0 -6.142017000000001,36.69493900000001,0 -6.141747000000001,36.695021,0 -6.141594,36.695092,0 -6.14113,36.695302,0 -6.140471,36.695608,0 -6.139652,36.694433,0 -6.139604,36.694364,0 -6.139179000000002,36.694309,0 -6.13851,36.694175,0 -6.137727,36.694075,0 -6.137432000000002,36.694011,0 -6.137077,36.693884,0 -6.136489,36.693587,0 -6.136244000000001,36.69342400000001,0 -6.136055,36.69356200000001,0 -6.135973000000001,36.693623,0 -6.135693000000002,36.693823,0 -6.135257000000001,36.69423700000001,0 -6.135995999999999,36.695159,0 -6.136039,36.695403,0 -6.136823,36.696417,0 -6.137,36.69662200000001,0 -6.137402,36.697264,0 -6.137861000000001,36.697643,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-007</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005007<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 007<br>POBLACION: 768<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005007</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>007</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>768</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.142408,36.69808199999999,0 -6.142782,36.698588,0 -6.142978000000001,36.698871,0 -6.143384,36.698689,0 -6.144261,36.69827,0 -6.145005000000001,36.697932,0 -6.144745,36.697499,0 -6.144506000000001,36.69708500000001,0 -6.144329000000001,36.696798,0 -6.144301999999999,36.696722,0 -6.143919,36.696767,0 -6.142087,36.697614,0 -6.142408,36.69808199999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-008</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005008<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 008<br>POBLACION: 913<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005008</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>008</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>913</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.141413999999998,36.699949,0 -6.141821,36.69972199999999,0 -6.142021,36.699981,0 -6.142161999999999,36.70016800000001,0 -6.142253,36.70028,0 -6.142334,36.700315,0 -6.142427,36.700323,0 -6.142515000000001,36.700307,0 -6.142907999999999,36.700086,0 -6.143241,36.699888,0 -6.142660000000001,36.699023,0 -6.142978000000001,36.698871,0 -6.142782,36.698588,0 -6.142408,36.69808199999999,0 -6.142087,36.697614,0 -6.141489000000001,36.697902,0 -6.140102000000001,36.698513,0 -6.139561,36.698802,0 -6.139778000000001,36.698942,0 -6.140149,36.699205,0 -6.140439999999999,36.699416,0 -6.140658999999999,36.699595,0 -6.140866999999998,36.699793,0 -6.141131,36.700104,0 -6.141413999999998,36.699949,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-009</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005009<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 009<br>POBLACION: 670<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005009</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>009</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>670</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.141394000000002,36.70048400000001,0 -6.141586,36.70075499999999,0 -6.141684000000001,36.701005,0 -6.141731999999998,36.701242,0 -6.141752999999999,36.701354,0 -6.141871,36.70181700000001,0 -6.141976,36.701748,0 -6.142702,36.701265,0 -6.144046,36.700371,0 -6.143584999999999,36.699709,0 -6.143241,36.699888,0 -6.142907999999999,36.700086,0 -6.142515000000001,36.700307,0 -6.142427,36.700323,0 -6.142334,36.700315,0 -6.142253,36.70028,0 -6.142161999999999,36.70016800000001,0 -6.142021,36.699981,0 -6.141821,36.69972199999999,0 -6.141413999999998,36.699949,0 -6.141131,36.700104,0 -6.141394000000002,36.70048400000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-010</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005010<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 010<br>POBLACION: 814<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005010</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>010</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>814</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.137196,36.701916,0 -6.137361000000001,36.701933,0 -6.137576999999999,36.701947,0 -6.137790999999999,36.70195300000001,0 -6.138913,36.701952,0 -6.140269,36.701937,0 -6.14059,36.701938,0 -6.141871,36.70181700000001,0 -6.141752999999999,36.701354,0 -6.141731999999998,36.701242,0 -6.141684000000001,36.701005,0 -6.141586,36.70075499999999,0 -6.141394000000002,36.70048400000001,0 -6.141131,36.700104,0 -6.140595,36.700377,0 -6.140352000000001,36.700143,0 -6.140118999999999,36.699918,0 -6.139877,36.69973,0 -6.13949,36.699482,0 -6.139106000000001,36.700336,0 -6.139052999999999,36.70040899999999,0 -6.138858,36.70047300000001,0 -6.138292000000001,36.700538,0 -6.138166999999999,36.70061,0 -6.137924,36.70115,0 -6.137798000000002,36.701455,0 -6.137557999999999,36.701454,0 -6.137353,36.70143600000001,0 -6.137128,36.701413,0 -6.137013000000001,36.701886,0 -6.137196,36.701916,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-011</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005011<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 011<br>POBLACION: 934<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005011</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>011</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>934</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.139877,36.69973,0 -6.140118999999999,36.699918,0 -6.140352000000001,36.700143,0 -6.140595,36.700377,0 -6.141131,36.700104,0 -6.140866999999998,36.699793,0 -6.140658999999999,36.699595,0 -6.140439999999999,36.699416,0 -6.140149,36.699205,0 -6.139778000000001,36.698942,0 -6.139561,36.698802,0 -6.138868,36.698352,0 -6.138488,36.698123,0 -6.138183999999999,36.697909,0 -6.138015,36.69778399999999,0 -6.137861000000001,36.697643,0 -6.137402,36.697264,0 -6.136326,36.697941,0 -6.136263,36.69814300000001,0 -6.135987,36.698786,0 -6.135955999999999,36.69884999999999,0 -6.135923999999999,36.69893,0 -6.135847,36.699163,0 -6.135695000000001,36.699502,0 -6.136334999999999,36.699652,0 -6.136659,36.69886699999999,0 -6.136783000000001,36.698521,0 -6.136874,36.698438,0 -6.137145000000001,36.698244,0 -6.137260999999998,36.698167,0 -6.137347000000001,36.69813800000001,0 -6.137444000000002,36.69813800000001,0 -6.137541999999998,36.698186,0 -6.138062,36.698524,0 -6.138649000000001,36.69891500000001,0 -6.13949,36.699482,0 -6.139877,36.69973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-012</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005012<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 012<br>POBLACION: 1213<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005012</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>012</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>1213</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.135757000000001,36.701588,0 -6.136361999999999,36.701745,0 -6.136558000000002,36.701796,0 -6.136853,36.701865,0 -6.137013000000001,36.701886,0 -6.137128,36.701413,0 -6.137353,36.70143600000001,0 -6.137557999999999,36.701454,0 -6.137798000000002,36.701455,0 -6.137924,36.70115,0 -6.138166999999999,36.70061,0 -6.138292000000001,36.700538,0 -6.138858,36.70047300000001,0 -6.139052999999999,36.70040899999999,0 -6.139106000000001,36.700336,0 -6.13949,36.699482,0 -6.138649000000001,36.69891500000001,0 -6.138062,36.698524,0 -6.137541999999998,36.698186,0 -6.137444000000002,36.69813800000001,0 -6.137347000000001,36.69813800000001,0 -6.137260999999998,36.698167,0 -6.137145000000001,36.698244,0 -6.136874,36.698438,0 -6.136783000000001,36.698521,0 -6.136659,36.69886699999999,0 -6.136334999999999,36.699652,0 -6.135695000000001,36.699502,0 -6.135335,36.700283,0 -6.135061000000001,36.701081,0 -6.134945999999999,36.701361,0 -6.135757000000001,36.701588,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>05-013</name>
+			<description><![CDATA[descripción: <br>RT_CODIGO: 1102005013<br>COD_MUN: 11020<br>COD_DIST: 05<br>COD_SECC: 013<br>POBLACION: 801<br>COD_ENT: d12]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="RT_CODIGO">
+					<value>1102005013</value>
+				</Data>
+				<Data name="COD_MUN">
+					<value>11020</value>
+				</Data>
+				<Data name="COD_DIST">
+					<value>05</value>
+				</Data>
+				<Data name="COD_SECC">
+					<value>013</value>
+				</Data>
+				<Data name="POBLACION">
+					<value>801</value>
+				</Data>
+				<Data name="COD_ENT">
+					<value>d12</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-6.128782,36.707192,0 -6.128872,36.7072,0 -6.129056,36.70721600000001,0 -6.129594,36.70723,0 -6.129866,36.70721400000001,0 -6.129952999999999,36.707186,0 -6.130151000000002,36.707171,0 -6.13035,36.707157,0 -6.130469,36.707147,0 -6.130623,36.70713899999999,0 -6.130738999999998,36.707119,0 -6.130850000000001,36.707087,0 -6.131812,36.707027,0 -6.133017,36.7069,0 -6.133418,36.706862,0 -6.133341999999999,36.706232,0 -6.133318999999999,36.706028,0 -6.133275,36.705664,0 -6.133283,36.705544,0 -6.133426,36.70484200000001,0 -6.133626999999999,36.70385999999999,0 -6.133859,36.703305,0 -6.134064,36.702826,0 -6.134295999999999,36.70223,0 -6.13296,36.701903,0 -6.131964999999999,36.702544,0 -6.130313000000001,36.702113,0 -6.13021,36.702403,0 -6.130122,36.70265000000001,0 -6.130036999999999,36.702884,0 -6.129925,36.70321,0 -6.129818000000001,36.703552,0 -6.129789,36.703643,0 -6.129740000000002,36.703771,0 -6.129271,36.704841,0 -6.129013,36.705441,0 -6.128607999999999,36.706822,0 -6.128507000000001,36.70716699999999,0 -6.128782,36.707192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
